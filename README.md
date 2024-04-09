@@ -2,6 +2,10 @@
 
 This Android application, built with aim of leveraging advanced programming techniques as example this offers a seamless multi-language processing experience. It allows users to input text, translates it into a specified language (in this case, Chinese), and vocalizes the translation using Text-to-Speech (TTS) technology.
 
+### preview 
+#
+![translator 0 0 1](https://github.com/brianlangay4/Translator/assets/67788456/a174892b-58f2-486f-8680-e5c2262ecae0)
+
 ### Intergration
 The application plugin is available in SuperApp 2.0 update supporting translation service to this application 
 visit the SuperApp repo and check out the plugin usage cases for more ideas
