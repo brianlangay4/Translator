@@ -6,6 +6,12 @@ This Android application, built with aim of leveraging advanced programming tech
 #
 ![translator 0 0 1](https://github.com/brianlangay4/Translator/assets/67788456/a174892b-58f2-486f-8680-e5c2262ecae0)
 
+![Screenshot 2024-04-21 181432](https://github.com/brianlangay4/Translator/assets/67788456/5620e7f7-570e-4864-8611-933c30dfde76)
+![Screenshot 2024-04-21 181256](https://github.com/brianlangay4/Translator/assets/67788456/d99b7c2a-3471-4bad-a473-64edcf8c911d)
+
+### UI Design available
+
+
 ### Intergration
 The application plugin is available in SuperApp 2.0 update supporting translation service to this application 
 visit the SuperApp repo and check out the plugin usage cases for more ideas
